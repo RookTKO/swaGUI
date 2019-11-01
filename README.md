@@ -1,2 +1,2 @@
 # swaGUI
-Small Library that is used to manipulate text elements on the DOM.
+Small library that is used to manipulate text elements on the DOM.
